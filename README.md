@@ -42,6 +42,6 @@ As a solution, <br>
 > [!NOTE]  
 >  ### Bubble Fruit Web - Home page
 <hr>
-<img src="https://github.com/Dilan032/Bubble-Fruit-Game-and-WebSite/assets/131896539/5db48122-83a4-46b6-b7f6-1d31f913d5bb" width=550 > <br>
+<img src="https://github.com/Dilan032/WebBasedGame-and-WebSiteDill/issues/1#issuecomment-1952392771" width=550 > <br>
 <hr>
 
