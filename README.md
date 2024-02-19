@@ -50,6 +50,6 @@ As a solution, <br>
 > [!NOTE]  
 >  ### Bubble Fruit Web - Home page
 <hr>
-<img src="https://github.com/Dilan032/WebBasedGame-and-WebSiteDill/assets/131896539/12fe5cb6-94e4-436f-bd7c-22c8d0ce6ed4" width=550 > <br>
+<img src="https://github.com/Dilan032/WebBasedGame-and-WebSiteDill/assets/131896539/12fe5cb6-94e4-436f-bd7c-22c8d0ce6ed4" width=700 > <br>
 <hr>
 
