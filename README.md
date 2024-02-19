@@ -3,7 +3,7 @@
 📌Introduction &nbsp;&nbsp;&nbsp; 📌About WebSite &nbsp;&nbsp;&nbsp; 📌About Game &nbsp;&nbsp;&nbsp;📌UI/UX Design <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Dilan032/WebBasedGame-and-WebSite/assets/131896539/fb6fc9c3-2ea8-48c4-9798-92ef1984bdfb" width=300 >
+<img src="https://github.com/Dilan032/WebBasedGame-and-WebSiteDill/assets/131896539/524a3e41-9f48-4601-842a-a861d3b5648e" width=300 >
 <br>
 
 >### Introduction  
