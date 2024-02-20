@@ -1,6 +1,6 @@
 # WebBased Game & WebSite
 
-📌Introduction &nbsp;&nbsp;&nbsp; 📌About WebSite &nbsp;&nbsp;&nbsp; 📌About Game &nbsp;&nbsp;&nbsp;📌UI/UX Design <br><br>
+📌Introduction &nbsp; 📌About WebSite &nbsp; 📌About Game &nbsp;📌UI/UX Design <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Dilan032/WebBasedGame-and-WebSiteDill/assets/131896539/524a3e41-9f48-4601-842a-a861d3b5648e" width=300 >
