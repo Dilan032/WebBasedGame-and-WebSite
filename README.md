@@ -6,10 +6,10 @@
 <img src="https://github.com/Dilan032/WebBasedGame-and-WebSiteDill/assets/131896539/524a3e41-9f48-4601-842a-a861d3b5648e" width=300 >
 > [!IMPORTANT]
 > Step 1 : Download source code files and folders. <br>
-Step 2 : Go to Google Drive and download Game Files. 👉 [Google Drive Link](https://drive.google.com/drive/u/0/folders/1FGWkjhPD41yVC4MiOpm71cAFSUJLpBDY)<br>
+Step 2 : Go to Google Drive and download Game Files. 👉 **[Google Drive Link](https://drive.google.com/drive/u/0/folders/1FGWkjhPD41yVC4MiOpm71cAFSUJLpBDY)**<br>
 Step 3 : Place all these files and folders in one folder and deploy the website. <br>
 **Or** <br>
-go directly to the [Bubble Fruit website](https://bubblefruit.000webhostapp.com/) from this link. <br>
+go directly to the **[Bubble Fruit website](https://bubblefruit.000webhostapp.com/)** from this link. <br>
 The Bubble Fruit website has all the instructions.
 
 <br>
