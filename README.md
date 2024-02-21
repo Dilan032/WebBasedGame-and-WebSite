@@ -9,7 +9,7 @@
 Step 2 : Go to Google Drive and download Game Files. 👉 **[Google Drive Link](https://drive.google.com/drive/u/0/folders/1FGWkjhPD41yVC4MiOpm71cAFSUJLpBDY)**<br>
 Step 3 : Place all these files and folders in one folder and deploy the website. <br>
 **Or** <br>
-go directly to the **[Bubble Fruit website](https://bubblefruit.000webhostapp.com/)** from this link. <br>
+go directly to the **[Bubble Fruit website](https://bubblefruit.000webhostapp.com/)** from this link and Play <br>
 The Bubble Fruit website has all the instructions.
 
 <br>
