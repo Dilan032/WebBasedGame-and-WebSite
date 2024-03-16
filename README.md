@@ -33,7 +33,7 @@ As a solution, <br>
 
 >### About Game
 + In this game you have to collect fruits while protecting yourself from enemies.<br>
-📥**[Download](https://drive.google.com/drive/u/0/folders/1FGWkjhPD41yVC4MiOpm71cAFSUJLpBDY)** each game level and play this game using PC. <br> <br>
+📥[Download](https://drive.google.com/drive/u/0/folders/1FGWkjhPD41yVC4MiOpm71cAFSUJLpBDY) each game level and play this game using PC. <br> <br>
 
 
 >### UI/UX Design
