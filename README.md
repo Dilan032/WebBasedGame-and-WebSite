@@ -40,7 +40,7 @@ As a solution, <br>
 >### UI/UX Design
 
 + Figma was used to create the UI design, <br>
-  🔗 Figma UI Design project 👉 **[WebSite UI/UX Design .Figma](https://www.figma.com/file/UPzGzLjsF3SDnGhJNsBVNZ/Untitled?type=design&node-id=8%3A305&mode=design&t=lT2AUVorFgXMgZUw-1)**
+  🔗 Figma UI Design project 👉 **[WebSite UI/UX Design](https://www.figma.com/file/UPzGzLjsF3SDnGhJNsBVNZ/Untitled?type=design&node-id=8%3A305&mode=design&t=lT2AUVorFgXMgZUw-1)**
 
 <br><br>
 
