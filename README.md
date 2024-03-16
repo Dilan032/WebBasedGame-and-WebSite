@@ -6,8 +6,7 @@
 <img src="https://github.com/Dilan032/WebBasedGame-and-WebSiteDill/assets/131896539/524a3e41-9f48-4601-842a-a861d3b5648e" width=300 >
 > [!IMPORTANT]
 > Step 1 : Download source code files and folders. <br>
-Step 2 : Go to Google Drive and **[download Game Files.](https://drive.google.com/drive/u/0/folders/1FGWkjhPD41yVC4MiOpm71cAFSUJLpBDY)** <br>
-Step 3 : Place all these files and folders in one folder and deploy the website. <br>
+Step 2 : Place all these files and folders in one folder and deploy the website. <br>
 **Or** <br>
 go directly to the **[Bubble Fruit website](https://dilan032.github.io/WebBasedGame-and-WebSite/)** from this link and Play. <br>
 The Bubble Fruit website has all the instructions.
@@ -34,7 +33,7 @@ As a solution, <br>
 
 >### About Game
 + In this game you have to collect fruits while protecting yourself from enemies.<br>
-📥Download each game level and play this game using PC. <br> <br>
+📥**[Download](https://drive.google.com/drive/u/0/folders/1FGWkjhPD41yVC4MiOpm71cAFSUJLpBDY)** each game level and play this game using PC. <br> <br>
 
 
 >### UI/UX Design
